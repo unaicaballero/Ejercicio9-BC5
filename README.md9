@@ -1,0 +1,3 @@
+Ejercicio 9 - BC5
+Modificar el ejemplo anterior para que al hacer clic en el botón, se limpie el campo de texto.
+Al ejecutar la aplicación se abre una ventana de 400x200 píxeles con el título "Ejercicio 9". Contiene una etiqueta con el texto "Escribe algo", un campo de texto (TextField) y un botón "Mostrar". Al pulsar el botón, la etiqueta se actualiza con el texto introducido y el campo de texto se vacía automáticamente con campoTexto.clear(). El layout está construido con un VBox centrado con 10 píxeles de separación entre elementos.
